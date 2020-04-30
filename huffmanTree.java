@@ -5,8 +5,12 @@ import java.util.HashMap;
 import java.util.Map;
 public class huffmanTree
 {
+<<<<<<< HEAD
     //打开第二次
     //嘿嘿嘿
+=======
+    //第一次第一处修改哈夫曼树内容
+>>>>>>> 2e5fb70f0ed1d01b1b06b2b3ed01f9e290d3b37b
     //private ArrayList<node> tree;
 
     //传入文件名，一个node为节点的数组，得到文件中各个字符的权重，便于把修改之后的arrayList用来构造哈夫曼树
@@ -110,7 +114,7 @@ public class huffmanTree
             getCodeMap(rootNode.getrNode(),suffix+"1",codemap);
         }
     }
-
+//第一次第二处修改哈夫曼树内容
 
 
 }
