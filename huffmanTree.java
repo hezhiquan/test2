@@ -5,6 +5,8 @@ import java.util.HashMap;
 import java.util.Map;
 public class huffmanTree
 {
+    //打开第二次
+    //嘿嘿嘿
     //private ArrayList<node> tree;
 
     //传入文件名，一个node为节点的数组，得到文件中各个字符的权重，便于把修改之后的arrayList用来构造哈夫曼树
